@@ -50,12 +50,12 @@ input{
 }
 @media screen and (max-width:600px){
     .btns{
-        grid-template-columns: 60px 60px 60px 60px;
+        grid-template-columns: 80px 80px 80px 80px;
     }
     .btn{
         font-size: 15px;
     }
     input{
-        width: 240px;
+        width: 340px;
     }
 }
